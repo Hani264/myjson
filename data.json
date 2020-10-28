@@ -1,0 +1,76 @@
+{
+  "courses": [    
+      {
+          "id": 1,
+          "cName" : "Drwaing",
+          "cDuration": 60,
+          "cPrice": 165,
+          "cPlace": "Hyderabad/India",
+          "cStart": "26 April 2020",
+          "cImage": "https://cdn.pixabay.com/photo/2018/02/04/09/09/brushes-3129361_960_720.jpg"
+      },
+      {
+          "id": 2,
+          "cName" : "Engineering",
+          "cDuration": 90,
+          "cPrice": 195,
+          "cPlace": "Hyderabad/India",
+          "cStart": "1 July 2020",
+          "cImage": "https://cdn.pixabay.com/photo/2019/02/06/16/32/architect-3979490_960_720.jpg"
+      },
+      {
+          "id": 3,
+          "cName" : "Drwaing Crash Course",
+          "cDuration": 45,
+          "cPrice": 250,
+          "cPlace": "Hyderabad/India",
+          "cStart": "25 July 2020",
+          "cImage": "https://cdn.pixabay.com/photo/2017/07/31/11/21/people-2557399_960_720.jpg"
+      },
+      {
+          "id": 4,
+          "cName" : "Engineering Course",
+          "cDuration": 80,
+          "cPrice": 525,
+          "cPlace": "Hyderabad/India",
+          "cStart": "18 July 2020",
+          "cImage": "https://cdn.pixabay.com/photo/2020/03/09/11/59/engineer-4915445_960_720.jpg"
+      },
+      {
+          "id": 5,
+          "cName" : "Drwaing Course",
+          "cDuration": 80,
+          "cPrice": 195,
+          "cPlace": "Hyderabad/India",
+          "cStart": "25 September 2020",
+          "cImage": "https://cdn.pixabay.com/photo/2016/09/03/09/18/girl-1641215_960_720.jpg"
+      },
+      {
+          "id": 6,
+          "cName" : "Engineering CSE",
+          "cDuration": 120,
+          "cPrice": 265,
+          "cPlace": "Hyderabad/India",
+          "cStart": "1 Oct 2020",
+          "cImage": "https://cdn.pixabay.com/photo/2017/03/19/18/51/tuning-2157354_960_720.jpg"
+      }
+  
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
